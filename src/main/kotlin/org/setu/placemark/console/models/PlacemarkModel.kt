@@ -1,4 +1,4 @@
-package org.setu.placemark.console.main.models
+package org.setu.placemark.console.models
 
 data class PlacemarkModel(var id: Long = 0,
                           var title: String = "",
